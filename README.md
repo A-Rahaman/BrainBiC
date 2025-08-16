@@ -1,2 +1,4 @@
 # BrainBiC
-A biclustering algorithm with a primary application on Brain connectivity data
+A biclustering algorithm with a primary application on the brain's functional connectivity data. 
+A deep learning framework that jointly stratifies subjects and features, enabling effective navigation of the data manifold and meaningful knowledge discovery. It leverages semantic locality to preserve coherence in subgrouped neural patterns and jointly optimizes sample and attribute assignment probability distributions for novel bicluster retrieval. Comprehensive experiments on multiple neuroimaging datasets demonstrate that BrainBiC outperforms state-of-the-art methods in identifying neurologically meaningful brain connectivity substructures. The extracted connectivity signatures are
+highly modular, show strong associations with cognitive and behavioral variables, and reveal disruptions in functional integration within subcortical, sensorimotor, and visual circuits. These findings position BrainBiC as a robust framework for modeling disease heterogeneity and associated connectivity alterations, advancing data-driven precision psychiatry.
